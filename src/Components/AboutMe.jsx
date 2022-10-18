@@ -4,7 +4,19 @@ import "./AboutMe.css"
 
 function Aboutme() {
   return (
-    <div>Aboutme</div>
+    <div>
+        <div>
+             <div>
+
+
+             </div>
+
+             <div>
+
+
+            </div>
+        </div>
+    </div>
   )
 }
 
