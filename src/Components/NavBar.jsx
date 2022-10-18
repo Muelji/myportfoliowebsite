@@ -2,7 +2,7 @@ import React from 'react'
 import "./NavBar.css"
 function NavBar() {
   return (
-    <div>
+    <div className='navdiv'>
 <div class="div1">
         <nav class="navbar">
            <ul>
@@ -25,11 +25,12 @@ function NavBar() {
      
                     <hr/> <br/> <br/>
 
-            <div>
+            <div className='div2i'>
 
-
-
-
+               <a href="https://www.github.com/muelji" className="fa fa-github">.</a>
+                <a href="https://www.twitter.com" className="fa fa-twitter">.</a>
+                <a href="https://wwww.instagram.com" className="fa fa-linkedin">.</a>
+              
             </div>
     
     
