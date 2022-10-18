@@ -23,7 +23,7 @@ function NavBar() {
                 Start scrolling and learn more about me and my spectacular works.
             </h3>           
      
-                    <hr/> <br/> <br/>
+                    <hr/> <br/>
 
             <div>
 
