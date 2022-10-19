@@ -2,11 +2,12 @@
 
     display:flex;
     justify-content: space-between;
-    width: 50%;
+    width: 60%;
     margin: auto;
 }
 
 .wizpic{
+    margin-left: 8%;
       width: 150px;
       height: 150px;
       border-radius: 200px;
@@ -15,5 +16,5 @@
 }
 
 .abouttext{
-    width: 50%;
+    width: 60%;
 }
