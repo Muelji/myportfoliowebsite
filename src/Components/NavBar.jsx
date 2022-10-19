@@ -22,7 +22,7 @@ function NavBar() {
                  Start scrolling and learn more about me and my spectacular works.
               </h3>           
      
-                    <hr/> <br/> <br/>
+                    <hr id="hr2"/> <br/> <br/>
 
               <div className='div2i'>
 
