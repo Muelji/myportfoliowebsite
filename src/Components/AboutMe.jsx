@@ -9,7 +9,7 @@ function Aboutme() {
         <div>
              <div className='about'>
 
-                <img src={wizpic} className="wizpic"/>
+                <img src={wizpic} alt="wizpic" className="wizpic"/>
                   <div className='abouttext'>
                      <div>
                        <h2>About Me</h2>
@@ -34,10 +34,6 @@ function Aboutme() {
 
               </div>
 
-               <div>
-
-
-              </div>
         </div>
     </div>
   )

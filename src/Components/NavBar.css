@@ -7,7 +7,14 @@ li{
    }
 
 .div1{
-text-align: center;
+ display: flex;
+ justify-content: center;
+ border: 1px solid red;
+
+}
+
+.navbar{
+border: 1px solid blue;
 
 }
 
@@ -23,7 +30,7 @@ font-size: larger;
    .div2{ 
     margin: auto;
     margin-top: 10%;
-    width: 800px;
+    width: 50%;
     height: 700px;
     text-align: center;
 }
