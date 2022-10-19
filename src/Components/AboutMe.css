@@ -7,9 +7,10 @@
 }
 
 .wizpic{
-      width: 200px;
-      height: 200px;
+      width: 150px;
+      height: 150px;
       border-radius: 200px;
+      border: 10px solid rgb(182, 180, 180);
 
 }
 
