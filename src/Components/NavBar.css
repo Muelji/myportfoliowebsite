@@ -9,12 +9,12 @@ li{
 .div1{
  display: flex;
  justify-content: center;
- border: 1px solid red;
+ /* border: 1px solid red; */
 
 }
 
 .navbar{
-border: 1px solid blue;
+/* border: 1px solid blue; */
 }
 
 .navdiv{
