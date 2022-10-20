@@ -1,9 +1,12 @@
 import React from 'react'
-import "./AboutMe.css"
+import "./Career.css"
 
 function Career() {
   return (
-    <div>Career</div>
+    <div>
+
+
+    </div>
   )
 }
 
