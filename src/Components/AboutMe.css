@@ -1,6 +1,6 @@
 .gendiv{
         background-color:rgb(24, 22, 22); 
-        height: 700px;
+        height: 800px;
         display: flex;
         align-items: center;
         border: 1px solid red;
@@ -13,8 +13,9 @@
     display:flex;
     justify-content: space-between;
     width: 60%;
+    height: 500px;
     margin: auto;
-    border: 1px solid red;
+    border: 1px solid rgb(37, 221, 129);
 }
 
 .wizpic{
