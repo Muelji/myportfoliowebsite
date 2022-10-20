@@ -17,7 +17,7 @@ function Aboutme() {
                         <br/><br/><br/>
                         <hr/>
                      </div>
-                        <div >
+                        <div className='divdres'>
                            <div>
                            <h2>Contact Details</h2>
                             <address>
