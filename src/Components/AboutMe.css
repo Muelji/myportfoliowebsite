@@ -1,9 +1,20 @@
-.about{
+.gendiv{
+        background-color:rgb(24, 22, 22); 
+        height: 700px;
+        display: flex;
+        align-items: center;
+        border: 1px solid red;
+        color: white;
 
+}
+
+.about{
+    margin-top: 70%;
     display:flex;
     justify-content: space-between;
     width: 60%;
     margin: auto;
+    border: 1px solid red;
 }
 
 .wizpic{
@@ -18,3 +29,10 @@
 .abouttext{
     width: 60%;
 }
+
+.divdres{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+     
