@@ -1,5 +1,6 @@
 .divsec3{
     padding: 200px;
+    border: 1px solid rgb(32, 35, 231);
 
 }         
 
@@ -12,11 +13,13 @@
 
 .div2{
     display: flex;
+    border: 1px solid red;
 
 }
 
 .div3{
     display: flex;
+    border: 1px solid red;
 
 }
 
