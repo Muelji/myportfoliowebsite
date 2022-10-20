@@ -5,7 +5,7 @@ import "./AboutMe.css"
 
 function Aboutme() {
   return (
-   <div className=''>
+   <div className='gendiv'>
     
         <div className='about'>
                 <img src={wizpic} alt="wizpic" className="wizpic"/>
@@ -17,7 +17,7 @@ function Aboutme() {
                         <br/><br/><br/>
                         <hr/>
                      </div>
-                        <div>
+                        <div >
                            <div>
                            <h2>Contact Details</h2>
                             <address>
