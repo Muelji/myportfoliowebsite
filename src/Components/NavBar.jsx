@@ -17,7 +17,7 @@ function NavBar() {
 
         </div>
           <div className='div2'>
-              <h1> I'm Muelji Damos, aka MJ.</h1>
+              <h1> I'm Muelji Damos</h1>
               <h3> I'm an <b> Front-End Developer,</b> Chemical Engineer, a <b>visionary</b> and a creative, who has the sole passion of       creating effective an optimal visual identities for individuals, companies and organizations of all sizes around the world.
                  Start scrolling and learn more about me and my spectacular works.
               </h3>           
