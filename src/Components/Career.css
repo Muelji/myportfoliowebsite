@@ -1,23 +1,28 @@
-.divsec3{
-    padding: 200px;
-    border: 1px solid rgb(32, 35, 231);
+.genc{
+    display: flex;
+    justify-content: center;
 
+}
+
+.divsec3{
+    border: 1px solid rgb(32, 35, 231);
+    width: 60%;
 }         
 
-.div1{
+.c1{
     display: flex;
 
     border: 1px solid red;
 
 }
 
-.div2{
+.c2{
     display: flex;
     border: 1px solid red;
 
 }
 
-.div3{
+.c3{
     display: flex;
     border: 1px solid red;
 
