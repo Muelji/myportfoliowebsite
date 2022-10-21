@@ -26,8 +26,11 @@ function Career() {
                <h4>CSS</h4>
                <h4>TAILWIND</h4>
                <h4>WORDPRESS</h4>
+               <h4>JAVASCRIPT</h4>
                <h4>REACT JS</h4>
+               <h4>MONGO DB</h4>
                <h4>NODE JS</h4>
+               <h4>GIT</h4>
                </div>
 
            </div>
