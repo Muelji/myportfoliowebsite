@@ -11,19 +11,22 @@
 
 .c1{
     display: flex;
-
+    justify-content: space-between;
+    
     border: 1px solid red;
 
 }
 
 .c2{
     display: flex;
+    justify-content: space-between;
     border: 1px solid red;
 
 }
 
 .c3{
     display: flex;
+    justify-content: space-between;
     border: 1px solid red;
 
 }

@@ -3,7 +3,7 @@
         height: 800px;
         display: flex;
         align-items: center;
-        border: 1px solid red;
+        /* border: 1px solid red; */
         color: white;
 
 }
@@ -15,7 +15,7 @@
     width: 65%;
     height: 500px;
     margin: auto;
-    border: 1px solid rgb(37, 221, 129);
+    /* border: 1px solid rgb(37, 221, 129); */
 }
 
 .wizpic{
