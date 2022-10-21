@@ -24,12 +24,12 @@ function Career() {
                <div className='ciii'>
                <h4>HTML</h4>
                <h4>CSS</h4>
+               <h4>TAILWIND</h4>
+               <h4>WORDPRESS</h4>
+               <h4>REACT JS</h4>
+               <h4>NODE JS</h4>
                <h4>JAVASCRIPT</h4>
-               <h4>REACT</h4>
-               <h4>HTML</h4>
-               <h4>HTML</h4>
-               <h4>HTML</h4>
-               <h4>HTML</h4>
+               <h4></h4>
                </div>
 
            </div>
