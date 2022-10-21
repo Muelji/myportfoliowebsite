@@ -23,6 +23,9 @@ function Career() {
                 <h3>Skills</h3>
                <div className='ciii'>
                <h4>HTML</h4>
+               <h4>HTML</h4>
+               <h4>HTML</h4>
+               <h4>HTML</h4>
                </div>
 
            </div>
