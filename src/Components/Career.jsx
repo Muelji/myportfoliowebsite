@@ -26,6 +26,9 @@ function Career() {
                <h4>HTML</h4>
                <h4>HTML</h4>
                <h4>HTML</h4>
+               <h4>HTML</h4>
+               <h4>HTML</h4>
+               <h4>HTML</h4>
                </div>
 
            </div>
