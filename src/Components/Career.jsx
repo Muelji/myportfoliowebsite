@@ -7,7 +7,7 @@ function Career() {
       <div className='divsec3'>
           <div className='c1'>
             <h3>CAREER</h3>
-              <div> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero explicabo accusamus, quisquam aliquam obcaecati excepturi quam aperiam blanditiis neque laborum unde. Fugit commodi dicta impedit saepe dolore, doloremque repellendus dolores? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt eius modi debitis fuga sequi dicta quisquam dolorum suscipit. Blanditiis, assumenda maxime enim perspiciatis alias quae! Accusamus porro minima deserunt dolore! Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              <div className='cii'> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero explicabo accusamus, quisquam aliquam obcaecati excepturi quam aperiam blanditiis neque laborum unde. Fugit commodi dicta impedit saepe dolore, doloremque repellendus dolores? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt eius modi debitis fuga sequi dicta quisquam dolorum suscipit. Blanditiis, assumenda maxime enim perspiciatis alias quae! Accusamus porro minima deserunt dolore! Lorem ipsum dolor sit amet consectetur, adipisicing elit.
               </div> 
 
           </div>
