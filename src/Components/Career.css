@@ -30,7 +30,8 @@
     border: 1px solid red;
 }
 
-.ci .cii, .ciii{
+.ci .cii .ciii{
       width: 60%;
+      height: 700px;
 }
 
