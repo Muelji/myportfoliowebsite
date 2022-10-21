@@ -22,7 +22,7 @@ function Career() {
            <div className='c3'>
                 <h3>Skills</h3>
                <div className='ciii'>
-               Reprehenderit voluptas impedit illo recusandae, esse repellat, velit inventore sit itaque consequuntur ipsam magnam? Maxime  eius harum repellat id nesciunt sequi reprehenderit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ullam expedita quidem assumenda, corrupti maiores, eius laborum ex officia iure enim blanditiis, est dicta? Sit commodi tenetur voluptas minus eius!
+               <h4>HTML</h4>
                </div>
 
            </div>
