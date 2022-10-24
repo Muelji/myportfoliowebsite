@@ -15,7 +15,7 @@ function Test() {
 
             </div>
             <div>
-                <img src="" alt="2" />
+                <img src={p} alt="p2" />
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, similique! Provident beatae praesentium ipsam sed, eos vel autem sint facilis repudiandae aliquid. Esse perspiciatis ut cum beatae, temporibus voluptas placeat?</p>
             </div>
 
