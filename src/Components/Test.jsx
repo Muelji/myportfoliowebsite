@@ -1,10 +1,13 @@
 import React from 'react'
+import Footer from './Footer'
 import "./Test.css"
 
 
 function Test() {
   return (
-    <div>Test</div>
+    <div>
+      <Footer/>
+    </div>
   )
 }
 
