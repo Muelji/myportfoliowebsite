@@ -19,7 +19,7 @@ function Test() {
               </div>
          </div>
          
-         <div>
+         <div className='divcontact'>
                <hr/>
                <h4>Need a place to learn a skill in tech?</h4>
                <p>
