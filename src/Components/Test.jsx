@@ -15,7 +15,7 @@ function Test() {
          <div>
               <h2>A Few Of My Latest Works</h2>
               <div>
-                 <img src="" alt="" /><img src="" alt="" /><img src="" alt="" /><img src="" alt="" />
+                 <img src={} alt="t1" /><img src={} alt="t2" /><img src={} alt="t3" /><img src={} alt="t4" />
               </div>
          </div>
          
