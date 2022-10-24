@@ -8,7 +8,7 @@ import "./Test.css"
 function Test() {
   return (
     <div>
-       <div>
+       <div className='divtest'>
             <div>
                 <img src={p} alt="p1" />
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt possimus accusamus ipsam! Tempore dolorem iure doloribus sapiente culpa at consectetur nihil blanditiis veniam debitis? Esse modi molestias ducimus cupiditate laborum.</p>
