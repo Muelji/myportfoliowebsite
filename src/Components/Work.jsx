@@ -8,7 +8,7 @@ import "./Work.css"
 
 function Work() {
   return (
-    <div >
+    <div className='genwork'>
       <div className='divwork'>
          
          <div>
