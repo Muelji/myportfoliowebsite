@@ -15,7 +15,7 @@ function Test() {
          <div>
               <h2>A Few Of My Latest Works</h2>
               <div>
-                 <img src={w1} alt="t1" className='imgt' /><img src={w2} alt="t1" className='imgd' /><img src={w3} alt="t1" className='imgt' /><img src={w4} alt="t1" className='imgt' />
+                 <img src={w1} alt="t1" className='imgd' /><img src={w2} alt="t1" className='imgd' /><img src={w3} alt="t1" className='imgd' /><img src={w4} alt="t1" className='imgd' />
               </div>
          </div>
          
