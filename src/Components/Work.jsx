@@ -6,7 +6,7 @@ import w4 from '../Assets/images/reviews.jpg'
 import "./Work.css"
 
 
-function Test() {
+function Work() {
   return (
     <div>
       <div className='divwork'>
@@ -32,4 +32,4 @@ function Test() {
   )
 }
 
-export default Test
+export default Work;
