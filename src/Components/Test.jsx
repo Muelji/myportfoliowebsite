@@ -1,4 +1,6 @@
 import React from 'react'
+import wizpic from '../Assets/images/'
+import "./AboutMe.css"
 
 function Test() {
   return (
