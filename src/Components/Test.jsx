@@ -20,8 +20,8 @@ function Test() {
          </div>
          
          <div className='divcontact'>
-               <hr/>
-               <h4>Need a place to learn a skill in tech?</h4>
+               <hr id="hr2"/>
+               <h3>Need a place to learn a skill in tech?</h3>
                <p>
                I highly recommend BlueHouse Technologies. BlueHouse has a team of skilled and certified experts and is offering to help anyone who would like to start a career in tech. Guaranteed.
                </p>
