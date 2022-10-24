@@ -7,7 +7,7 @@ import "./Test.css"
 
 function Test() {
   return (
-    <div>
+    <div className='gentest'>
        <div className='divtest'>
             <div>
                 <img src={p} alt="p1" />
