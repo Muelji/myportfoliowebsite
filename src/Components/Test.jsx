@@ -10,12 +10,12 @@ import "./Test.css"
 function Test() {
   return (
     <div>
-      <div>
+      <div className='divtest'>
          
          <div>
               <h2>A Few Of My Latest Works</h2>
               <div>
-                 <img src={t1} alt="t1" className='imgt' /><img src={t1} alt="t1" className='' /><img src={t1} alt="t1" className='' /><img src={t1} alt="t1" className='' />
+                 <img src={t1} alt="t1" className='imgt' /><img src={t2} alt="t1" className='imgt' /><img src={t3} alt="t1" className='imgt' /><img src={t4} alt="t1" className='imgt' />
               </div>
          </div>
          
