@@ -10,12 +10,12 @@ function Test() {
     <div className='gentest'>
        <div className='divtest'>
             <div>
-                <img src={p} alt="p1" />
+                <img src={p} alt="p1" className='imgp' />
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt possimus accusamus ipsam! Tempore dolorem iure doloribus sapiente culpa at consectetur nihil blanditiis veniam debitis? Esse modi molestias ducimus cupiditate laborum.</p>
 
             </div>
             <div>
-                <img src={p} alt="p2" />
+                <img src={p} alt="p2" className='imgp' />
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, similique! Provident beatae praesentium ipsam sed, eos vel autem sint facilis repudiandae aliquid. Esse perspiciatis ut cum beatae, temporibus voluptas placeat?</p>
             </div>
 
