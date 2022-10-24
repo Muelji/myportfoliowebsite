@@ -1,6 +1,11 @@
 import React from 'react'
-import wizpic from '../Assets/images/'
-import "./AboutMe.css"
+import t1 from '../Assets/images/birthday.jpg'
+import t2 from '../Assets/images/birthday.jpg'
+import t3 from '../Assets/images/birthday.jpg'
+import t4 from '../Assets/images/birthday.jpg'
+
+import "./Test.css"
+
 
 function Test() {
   return (
