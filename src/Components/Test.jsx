@@ -8,7 +8,7 @@ import "./Test.css"
 function Test() {
   return (
     <div className='gentest'>
-            <h3>Hear What My Clients Have to Say About my Works</h3>
+           <div className='hdiv'><h3>Hear What My Clients Have to Say About my Works</h3></div>
        <div className='divtest'>
             <div>
                 <img src={p} alt="p1" className='imgp' />
