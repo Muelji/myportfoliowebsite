@@ -6,7 +6,7 @@
 }
 
 .divf{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 50%;
   margin: auto;
   height: 500px;
@@ -14,7 +14,7 @@
 }
 
 .divfoot{
-         border: 1px solid green;
+         /* border: 1px solid green; */
          width: 100%;
          margin: auto;
          display: flex;
