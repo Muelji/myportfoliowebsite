@@ -9,14 +9,16 @@ function Footer() {
        <h2>Say hello</h2>
              <div className='divfoot'>
               <div>
-                   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum explicabo, numquam ipsum sequi voluptatem neque possimus beatae quidem dignissimos quod ipsa repellat voluptas suscipit quis sit accusamus nihil! Eligendi, excepturi.</p>
-
+              <span> Have a new project in mind? Let's collaborate and build something awesome. Let's turn that idea to an even greater product </span>
 
               </div>
 
               <div>
-                   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum explicabo, numquam ipsum sequi voluptatem neque possimus beatae quidem dignissimos quod ipsa repellat voluptas suscipit quis sit accusamus nihil! Eligendi, excepturi.</p>
-
+              <span id="email"> Email</span> <br/>
+                 <b>muelinx@gmail.com</b><br/><br/><br/>
+                <span id="email">Phone</span> <br/>
+                <span>+2348185470198</span> <br/> <br/>
+                 <div className="letstalk"> LET'S TALK</div>
                 
               </div>
               </div>
