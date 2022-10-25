@@ -8,12 +8,12 @@ function Footer() {
        <div className='divf'>
        <h2>Say hello</h2>
              <div className='divfoot'>
-              <div>
+              <div className='foot1'>
               <span> Have a new project in mind? Let's collaborate and build something awesome. Let's turn that idea to an even greater product </span>
 
               </div>
 
-              <div>
+              <div className='foot2'>
               <span id="email"> Email</span> <br/>
                  <b>muelinx@gmail.com</b><br/><br/><br/>
                 <span id="email">Phone</span> <br/>
