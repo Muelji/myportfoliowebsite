@@ -1,8 +1,13 @@
 .gentest{
     background-color: rgb(39, 39, 80);
-    height: 550px;
     color: white;
-    padding-top: 150px;
+   
+}
+
+.gen1{
+    
+    height: 550px;
+
 }
 
 .hdiv{
