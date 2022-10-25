@@ -1,5 +1,6 @@
 .genwork{
          background-color: bisque;
+         height: 500px;
 
 }
 
@@ -8,6 +9,7 @@
      width: fit-content;
      margin: auto;
      text-align: center;
+     height: 500px;
 }
 
 .imgd{ 
