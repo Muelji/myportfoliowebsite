@@ -10,6 +10,7 @@
   width: 50%;
   margin: auto;
   height: 500px;
+  
 }
 
 .divfoot{
@@ -19,7 +20,7 @@
          display: flex;
          justify-content: space-between;
          color: white;
-        
+         font-size: 170%;
 
 }
 
