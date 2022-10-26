@@ -44,12 +44,7 @@ function NavBar() {
      
 
     </div>
-                <AboutMe/>
-                 <Career/>
-                 <Work/>
-                 <Test/>
-                 <Footer/>
-
+              
     </div>
   )
 }
