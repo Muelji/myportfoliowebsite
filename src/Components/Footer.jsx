@@ -6,7 +6,7 @@ function Footer() {
   return (
 
     <div>
-      <NavBar/>
+   
     <div className='genfoot'>
         
        <div className='divf'>

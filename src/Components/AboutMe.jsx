@@ -1,12 +1,11 @@
 import React from 'react';
 import wizpic from '../Assets/images/wizkid.webp';
 import "./AboutMe.css";
-import NavBar from './NavBar';
+import Footer from './Footer';
 
 function Aboutme() {
   return (
    <div>
-      <NavBar/>
    <div className='gendiv'>
     
         <div className='about'>
@@ -36,6 +35,7 @@ function Aboutme() {
                   </div>
         </div>
    </div>
+   <Footer/>
    </div>
   )
 }
