@@ -1,6 +1,36 @@
-.footdiv{
-       /* border: 1px solid rgb(224, 11, 171); */
-       background-color: rgb(54, 10, 18);
-       height: 500px;
+
+
+.genfoot{
+    background-color: black;
+    color: white;
+}
+
+.divf{
+  /* border: 1px solid red; */
+  width: 50%;
+  margin: auto;
+  height: 500px;
+  
+}
+
+.divfoot{
+         /* border: 1px solid green; */
+         width: 100%;
+         margin: auto;
+         display: flex;
+         justify-content: space-between;
+         color: white;
+         font-size: 170%;
 
 }
+
+.foot1{
+      width: 50%;
+      
+}
+
+.foot2{
+  width: 30%;
+}
+
+span{color: white}     

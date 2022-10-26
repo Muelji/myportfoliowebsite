@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from './Footer'
 import p from '../Assets/images/parrot.jpg'
 import "./Test.css"
 
@@ -6,9 +7,9 @@ import "./Test.css"
 
 function Test() {
   return (
-    <div className='testdiv'>
-         <div className='test'>
-         <div className='hdiv'><h3>Hear What My Clients Have to Say About my Works</h3></div>
+    <div className='gentest'>
+         <div className='gen1'>
+             <div className='hdiv'><h3>Hear What My Clients Have to Say About my Works</h3></div>
              <div className='divtest'>
                   <div>
                       <img src={p} alt="p1" className='imgp' />
@@ -20,7 +21,8 @@ function Test() {
                       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, similique! Provident beatae praesentium ipsam sed, eos vel autem sint facilis repudiandae aliquid. Esse perspiciatis ut cum beatae, temporibus voluptas placeat?</p>
                   </div>
              </div> 
-        </div>
+       </div>
+      <Footer/>
     </div>
   )
 }
