@@ -5,6 +5,7 @@ import Career from './Components/Career';
 import NavBar from './Components/NavBar';
 import Test from './Components/Test';
 import Work from './Components/Work';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
     <Career/>
     <Work/>
     <Test/>
+    <Footer/>
     </div>
   );
 }

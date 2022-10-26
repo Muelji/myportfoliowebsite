@@ -3,8 +3,7 @@ import "./Footer.css"
 
 function Footer() {
   return (
-    <div className='genfoot'>
-        
+    <div className='genfoot'> 
        <div className='divf'>
        <h2>Say hello</h2>
              <div className='divfoot'>
