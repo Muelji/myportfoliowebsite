@@ -8,26 +8,8 @@ import "./Work.css"
 
 function Work() {
   return (
-    <div className='genwork'>
-      <div className='divwork'>
-         
-         <div>
-              <h2>A Few Of My Latest Works</h2>
-              <div>
-                 <img src={w1} alt="t1" className='imgd' /><img src={w2} alt="t1" className='imgd' /><img src={w3} alt="t1" className='imgd' /><img src={w4} alt="t1" className='imgd' />
-              </div>
-         </div>
-         
-         <div className='divcontact'>
-               <hr id="hr2"/>
-               <h3>Need a place to learn a skill in tech?</h3>
-               <p>
-               I highly recommend BlueHouse Technologies. BlueHouse has a team of skilled and certified experts and is offering to help anyone who would like to start a career in tech. Guaranteed.
-               </p>
-               <button>Contact Bluehouse</button>
-
-         </div>
-      </div>
+    <div className='workdiv'>
+      
     </div>
   )
 }
