@@ -1,6 +1,11 @@
 import React from 'react'
 import wizpic from '../Assets/images/wizkid.webp'
 import "./AboutMe.css"
+import AboutMe from './AboutMe';
+import Career from './Career';
+import Test from './Test';
+import Work from './Work';
+import Footer from './Footer';
 
 
 function Aboutme() {

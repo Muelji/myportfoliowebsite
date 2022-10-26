@@ -1,17 +1,24 @@
 import React from 'react'
 import "./NavBar.css"
+import AboutMe from './AboutMe';
+import Career from './Career';
+import Test from './Test';
+import Work from './Work';
+import Footer from './Footer';
+import { Link } from 'react-router-dom';
 function NavBar() {
   return (
+    <div>
   <div className='navdiv'>
        <div class="div1">
                <nav class="navbar">
                  <ul>
-                  <li>Home</li>
-                  <li>About</li>
-                  <li>Resume</li>
-                  <li>Works</li>
-                  <li>Testimonials</li>
-                  <li>Say Hello</li>
+                  <Link to='/'><li>Home</li></Link>
+                  <Link to='about-me'><li>About</li></Link>
+                  <Link to='career'><li>Resume</li></Link>
+                  <Link to='work'><li>Works</li></Link>
+                  <Link to='test'><li>Testimonials</li></Link>
+                  <Link to='footer'><li>Say Hello</li></Link>
                 </ul>      
               </nav>
 
@@ -36,6 +43,12 @@ function NavBar() {
          </div>
      
 
+    </div>
+                <AboutMe/>
+                 <Career/>
+                 <Work/>
+                 <Test/>
+                 <Footer/>
 
     </div>
   )

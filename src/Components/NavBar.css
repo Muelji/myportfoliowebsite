@@ -9,7 +9,9 @@ li{
 .div1{
  display: flex;
  justify-content: center;
- /* border: 1px solid red; */
+ background-image: url("../Assets/images/Avengers.webp");
+ background-size: 100%;
+ border: 1px solid red;
 
 }
 
