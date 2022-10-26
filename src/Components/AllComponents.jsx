@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import AboutMe from './Components/AboutMe';
 import Career from './Components/Career';
 import NavBar from './Components/NavBar';

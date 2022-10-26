@@ -1,10 +1,6 @@
-import React from 'react'
-import "./NavBar.css"
-import AboutMe from './AboutMe';
-import Career from './Career';
-import Test from './Test';
-import Work from './Work';
-import Footer from './Footer';
+import React from 'react';
+import "./NavBar.css";
+;
 import { Link } from 'react-router-dom';
 function NavBar() {
   return (
