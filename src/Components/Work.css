@@ -5,6 +5,14 @@
 
 }
 
+.work{
+    
+        width: fit-content;
+        margin: auto;
+        text-align: center;
+        border: 1px solid pink;
+}
+
 .imgd{ 
     width: 300px; 
     height: 250px;
