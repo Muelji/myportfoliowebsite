@@ -4,6 +4,8 @@ import { Link } from 'react-router-dom';
 import Aboutme from './AboutMe';
 import Career from './Career';
 import Work from './Work';
+import Test from './Test';
+import Footer from './Footer';
 
 
 function NavBar() {
@@ -47,6 +49,8 @@ function NavBar() {
     <Aboutme/>
     <Career/>
     <Work/>
+    <Test/>
+    <Footer/>
               
     </div>
   )
