@@ -12,7 +12,7 @@ function Work() {
       <div className='divwork'>
          
          <div>
-              <h2>A Few Of My Latest Works</h2>
+            A Few Of My Latest Works
               <div>
                  <img src={w1} alt="t1" className='imgd' /><img src={w2} alt="t1" className='imgd' /><img src={w3} alt="t1" className='imgd' /><img src={w4} alt="t1" className='imgd' />
               </div>

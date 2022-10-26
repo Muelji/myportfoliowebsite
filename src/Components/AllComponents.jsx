@@ -1,10 +1,10 @@
 import React from 'react';
-import AboutMe from './Components/AboutMe';
-import Career from './Components/Career';
-import NavBar from './Components/NavBar';
-import Test from './Components/Test';
-import Work from './Components/Work';
-import Footer from './Components/Footer';
+import AboutMe from './AboutMe';
+import Career from './Career';
+import NavBar from './NavBar';
+import Test from './Test';
+import Work from './Work';
+import Footer from './Footer';
 
 
 function AllComponents() {
