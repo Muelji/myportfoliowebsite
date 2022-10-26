@@ -1,11 +1,14 @@
 import React from 'react'
 import p from '../Assets/images/parrot.jpg'
+import NavBar from './NavBar';
 import "./Test.css"
 
 
 
 function Test() {
   return (
+    <div>
+      <NavBar/>
     <div className='gentest'>
          <div className='gen1'>
              <div className='hdiv'>Hear What My Clients Have to Say About my Works</div>
@@ -21,6 +24,7 @@ function Test() {
                   </div>
              </div> 
        </div>
+    </div>
     </div>
   )
 }

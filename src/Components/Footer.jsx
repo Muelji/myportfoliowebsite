@@ -1,8 +1,12 @@
 import React from 'react'
 import "./Footer.css"
+import NavBar from './NavBar';
 
 function Footer() {
   return (
+
+    <div>
+      <NavBar/>
     <div className='genfoot'>
         
        <div className='divf'>
@@ -24,6 +28,7 @@ function Footer() {
 
        </div>
 
+    </div>
     </div>
   )
 }

@@ -10,7 +10,6 @@ import Footer from './Footer';
 function AllComponents() {
   return (
     <div>
-        <NavBar/>
         <AboutMe/>
         <Career/>
         <Test />

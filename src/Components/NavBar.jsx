@@ -11,11 +11,11 @@ function NavBar() {
                <nav class="navbar">
                  <ul>
                   <Link to='/'><li>Home</li></Link>
-                  <Link to='about-me'><li>About</li></Link>
-                  <Link to='career'><li>Resume</li></Link>
-                  <Link to='work'><li>Works</li></Link>
-                  <Link to='test'><li>Testimonials</li></Link>
-                  <Link to='footer'><li>Say Hello</li></Link>
+                  <Link to='/about-me'><li>About</li></Link>
+                  <Link to='/career'><li>Resume</li></Link>
+                  <Link to='/work'><li>Works</li></Link>
+                  <Link to='/test'><li>Testimonials</li></Link>
+                  <Link to='/footer'><li>Say Hello</li></Link>
                 </ul>      
               </nav>
 
