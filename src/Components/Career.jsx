@@ -1,8 +1,11 @@
 import React from 'react'
 import "./Career.css"
+import NavBar from './NavBar'
 
 function Career() {
   return (
+    <div>
+      <NavBar/>
    <div className='genc'>
       <div className='divsec3'>
           <div className='c1'>
@@ -37,6 +40,7 @@ function Career() {
 
      </div>
       
+   </div>
    </div>
   )
 }

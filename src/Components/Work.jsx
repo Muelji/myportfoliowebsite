@@ -8,6 +8,7 @@ import "./Work.css"
 
 function Work() {
   return (
+    
     <div className='genwork'>
       <div className='divwork'>
          

@@ -1,10 +1,12 @@
 import React from 'react';
 import wizpic from '../Assets/images/wizkid.webp';
 import "./AboutMe.css";
+import NavBar from './NavBar';
 
 function Aboutme() {
   return (
    <div>
+      <NavBar/>
    <div className='gendiv'>
     
         <div className='about'>
