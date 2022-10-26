@@ -1,6 +1,9 @@
 import React from 'react';
 import "./NavBar.css";
 import { Link } from 'react-router-dom';
+import Aboutme from './AboutMe';
+import Career from './Career';
+import Work from './Work';
 
 
 function NavBar() {
@@ -41,6 +44,9 @@ function NavBar() {
      
 
     </div>
+    <Aboutme/>
+    <Career/>
+    <Work/>
               
     </div>
   )

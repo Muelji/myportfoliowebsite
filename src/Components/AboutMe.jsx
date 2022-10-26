@@ -1,9 +1,6 @@
 import React from 'react';
 import wizpic from '../Assets/images/wizkid.webp';
 import "./AboutMe.css";
-import Career from './Career';
-import Footer from './Footer';
-import Work from './Work';
 
 function Aboutme() {
   return (
@@ -37,9 +34,7 @@ function Aboutme() {
                   </div>
         </div>
    </div>
-   <Career/>
-   <Work/>
-   <Footer/>
+  
    </div>
   )
 }

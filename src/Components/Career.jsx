@@ -1,5 +1,8 @@
 import React from 'react'
 import "./Career.css"
+import Footer from './Footer'
+import Test from './Test'
+import Work from './Work'
 
 function Career() {
   return (
@@ -39,6 +42,7 @@ function Career() {
      </div>
       
    </div>
+
    </div>
   )
 }

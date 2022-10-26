@@ -14,8 +14,7 @@ function App() {
     <div>
         <Router>
             <Routes>
-                 <Route path='/' element={<AllComponents/>}/>
-                 <Route path='Navbar' element={<NavBar/>}/>
+                 <Route path='/' element={<NavBar/>}/>
                  <Route path='/about-me' element={<AboutMe/>}/>
                  <Route path='/career' element={<Career/>}/>
                  <Route path='/work' element={<Work/>}/>
