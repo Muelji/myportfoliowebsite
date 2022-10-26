@@ -9,7 +9,10 @@ import "./Work.css"
 function Work() {
   return (
     <div className='workdiv'>
-      
+       <div className='work'>
+
+
+      </div>
     </div>
   )
 }
