@@ -2,6 +2,7 @@ import React from 'react'
 import wizpic from '../Assets/images/wizkid.webp'
 import "./AboutMe.css"
 import NavBar from './NavBar';
+import Aboutme from './Aboutme';
 
 function Aboutme() {
   return (
