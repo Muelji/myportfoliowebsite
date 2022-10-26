@@ -9,7 +9,7 @@ function Test() {
   return (
     <div className='gentest'>
          <div className='gen1'>
-             <div className='hdiv'><h3>Hear What My Clients Have to Say About my Works</h3></div>
+             <div className='hdiv'>Hear What My Clients Have to Say About my Works</div>
              <div className='divtest'>
                   <div>
                       <img src={p} alt="p1" className='imgp' />
@@ -22,7 +22,6 @@ function Test() {
                   </div>
              </div> 
        </div>
-      <Footer/>
     </div>
   )
 }

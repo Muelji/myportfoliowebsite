@@ -6,7 +6,6 @@ function Footer() {
     <div className='genfoot'>
         
        <div className='divf'>
-       <h2>Say hello</h2>
              <div className='divfoot'>
               <div className='foot1'>
               <span> Have a new project in mind? Let's collaborate and build something awesome. Let's turn that idea to an even greater product </span>
