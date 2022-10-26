@@ -6,14 +6,16 @@ import Test from './Components/Test';
 import Work from './Components/Work';
 import Footer from './Components/Footer';
 
+
 function AllComponents() {
   return (
     <div>
         <NavBar/>
-
-
-
-
+        <AboutMe/>
+        <Career/>
+        <Test />
+        <Work/>
+        <Footer/>
     </div>
   )
 }
