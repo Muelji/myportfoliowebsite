@@ -7,7 +7,7 @@ import Test from './Components/Test';
 import Work from './Components/Work';
 import Footer from './Components/Footer';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import AllComponents from './Components/AllComponents';
+
 
 function App() {
   return (
