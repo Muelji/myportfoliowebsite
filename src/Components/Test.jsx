@@ -1,5 +1,4 @@
 import React from 'react'
-import Footer from './Footer'
 import p from '../Assets/images/parrot.jpg'
 import "./Test.css"
 
@@ -22,7 +21,7 @@ function Test() {
                   </div>
              </div> 
        </div>
-      <Footer/>
+      
     </div>
   )
 }
