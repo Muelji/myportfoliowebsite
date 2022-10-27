@@ -12,9 +12,20 @@ function NavBar() {
   return (
     <div>
   <div className='navdiv'>
-       
+       <div class="div1">
+               <nav class="navbar">
+                 <ul>
+                  <Link to='/'><li>Home</li></Link>
+                  <Link to='/about-me'><li>About</li></Link>
+                  <Link to='/career'><li>Resume</li></Link>
+                  <Link to='/work'><li>Works</li></Link>
+                  <Link to='/test'><li>Testimonials</li></Link>
+                  <Link to='/footer'><li>Say Hello</li></Link>
+                </ul>      
+              </nav>
+        </div>
           <div className='div2'>
-              <div>I'm Muelji Damos</div>
+              <h1> I'm Muelji Damos</h1>
               <h3> I'm an <b> Front-End Developer,</b> Chemical Engineer, a <b>visionary</b> and a creative, who has the sole passion of       creating effective an optimal visual identities for individuals, companies and organizations of all sizes around the world.
                  Start scrolling and learn more about me and my spectacular works.
               </h3>           
