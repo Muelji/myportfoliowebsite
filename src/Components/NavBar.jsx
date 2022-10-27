@@ -1,6 +1,6 @@
 import React from 'react';
 import "./NavBar.css";
-import { Link } from 'react-router-dom';
+import { Link, Outlet } from 'react-router-dom';
 import Aboutme from './AboutMe';
 import Career from './Career';
 import Work from './Work';
@@ -14,6 +14,7 @@ function NavBar() {
     <div>
   <div>
        <div class="div1">
+           
                <nav class="navbar">
                  <ul>
                   <Link to='/'><li>Home</li></Link>
@@ -24,6 +25,7 @@ function NavBar() {
                   <Link to='/footer'><li>Say Hello</li></Link>
                 </ul>      
               </nav>
+                <Outlet/>
         </div>
 
 

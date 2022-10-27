@@ -9,9 +9,8 @@ li{
 .div1{
  display: flex;
  justify-content: center;
- background-color: aqua;
- /* background-image: url("../Assets/images/Avengers.webp"); */
- background-size: 100%;
+ background-image: url("../Assets/images/Avengers.webp");
+ background-size: 130%;
  border: 1px solid red;
  height: 50px;
 }
