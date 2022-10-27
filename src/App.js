@@ -6,6 +6,8 @@ import NavBar from './Components/NavBar';
 import Test from './Components/Test';
 import Work from './Components/Work';
 import Footer from './Components/Footer';
+import Home from './Components/Home';
+
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 
@@ -15,6 +17,7 @@ function App() {
         <Router>
             <Routes>
                  <Route path='/' element={<NavBar/>}/>
+                 <Route path='/home' element={<Home/>}/>
                  <Route path='/about-me' element={<AboutMe/>}/>
                  <Route path='/career' element={<Career/>}/>
                  <Route path='/work' element={<Work/>}/>
