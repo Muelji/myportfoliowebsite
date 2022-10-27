@@ -6,12 +6,13 @@ import Career from './Career';
 import Work from './Work';
 import Test from './Test';
 import Footer from './Footer';
+import Home from './Home';
 
 
 function NavBar() {
   return (
     <div>
-  <div className='navdiv'>
+  <div>
        <div class="div1">
                <nav class="navbar">
                  <ul>
@@ -27,6 +28,7 @@ function NavBar() {
 
 
     </div>
+    <Home/>
     <Aboutme/>
     <Career/>
     <Work/>

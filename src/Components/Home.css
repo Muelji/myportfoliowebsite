@@ -8,6 +8,14 @@
     text-align: center;
 }
 
+.navdiv{
+    background-image: url("../Assets/images/Avengers.webp");
+    background-size: 100%;
+    height: 800px;
+    font-size: larger;
+    
+    }
+
 
 
 #hr2{width: 40%;}
