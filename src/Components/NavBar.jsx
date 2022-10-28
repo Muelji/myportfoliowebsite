@@ -23,9 +23,10 @@ function NavBar() {
                   <Link to='/work'><li>Works</li></Link>
                   <Link to='/test'><li>Testimonials</li></Link>
                   <Link to='/footer'><li>Say Hello</li></Link>
+                  <Outlet/>
                 </ul>      
               </nav>
-                <Outlet/>
+                
         </div>
 
 
