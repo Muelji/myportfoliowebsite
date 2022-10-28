@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className='navdiv'>
         <div className='div2'>
-                <div className='me'>I'm Muelji Damos</div>
+                <div>I'm Muelji Damos</div>
                <h3> I'm an <b> Front-End Developer,</b> Chemical Engineer, a <b>visionary</b> and a creative, who has the sole passion of    creating effective an optimal visual identities for individuals, companies and organizations of all sizes around the world.
                  Start scrolling and learn more about me and my spectacular works.
               </h3>           
