@@ -17,7 +17,7 @@ function Footer() {
 
               <div className='foot2'>
               <span id="email"> Email</span> <br/>
-                 <b>muelinx@gmail.com</b><br/><br/>
+                 <b>muelinx@gmail.com</b><br/><br/><br/>
                 <span id="email">Phone</span> <br/>
                 <span>+2348185470198</span> <br/> <br/>
                  <div className="letstalk"> LET'S TALK</div>
