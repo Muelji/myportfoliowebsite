@@ -1,6 +1,6 @@
 .gentest{
     background-color: rgb(39, 39, 80);
-    border: 1px solid red;
+    /* border: 1px solid red; */
     color: white;
     padding-top: 5%;
    
@@ -16,7 +16,7 @@
     width: 50%;
     text-align: center;
     margin: auto;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     margin-bottom: 5%;
 }
 
@@ -27,7 +27,7 @@
     height: 550px;
     display: flex;
     justify-content: space-between;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .imgp{

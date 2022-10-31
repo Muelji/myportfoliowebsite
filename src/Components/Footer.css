@@ -3,13 +3,14 @@
 .genfoot{
     background-color: black;
     color: white;
+    padding: 150px;
 }
 
 .divf{
   /* border: 1px solid red; */
   width: 50%;
   margin: auto;
-  height: 500px;
+  height: 350px;
   
 }
 
