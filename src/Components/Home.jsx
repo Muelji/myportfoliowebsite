@@ -6,7 +6,7 @@ function Home() {
     <div className='navdiv'>
         <div className='div2'>
           <div></div>
-                <div className='me'>I'm Muelji Damos</div>
+                <div className='me'><h1>I'm Muelji Damos</h1></div>
                <h3 id='uptext'> I'm an <b> Front-End Developer,</b> Chemical Engineer, a <b>visionary</b> and a creative, who has the sole passion of    creating effective an optimal visual identities for individuals, companies and organizations of all sizes around the world.
                  Start scrolling and learn more about me and my spectacular works.
               </h3>           
