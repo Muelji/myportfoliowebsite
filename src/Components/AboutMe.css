@@ -36,4 +36,18 @@
     display: flex;
     justify-content: space-between;
 }
+
+h5{
+ }
+   .downloadcv{
+    
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid rgb(194, 34, 34);
+    background-color: rgb(243, 242, 240);
+    color: black;
+
+ }
+ 
      
