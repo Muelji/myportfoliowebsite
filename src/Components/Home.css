@@ -6,6 +6,7 @@
     width: 50%;
     height: 700px;
     text-align: center;
+    padding-top: 10%;
 }
 
 .navdiv{
@@ -19,6 +20,7 @@
 
      .me{
         text-align: center;
+        font-size: 200%;
     
      }
 

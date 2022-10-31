@@ -2,8 +2,10 @@
 
 li{
     display: inline; 
-    color: rgb(209, 47, 47); 
-    margin: 20px
+    /* color: rgb(209, 47, 47);  */
+    margin: 20px;
+    text-decoration: none;
+    list-style: none;
    }
 
 .div1{
@@ -11,7 +13,7 @@ li{
  justify-content: center;
  background-image: url("../Assets/images/Avengers.webp");
  background-size: 130%;
- border: 1px solid red;
+ /* border: 1px solid red; */
  height: 50px;
 }
 
