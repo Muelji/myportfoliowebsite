@@ -1,6 +1,8 @@
 .gentest{
     background-color: rgb(39, 39, 80);
+    border: 1px solid red;
     color: white;
+    padding: 100px, 0px;
    
 }
 
