@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     background-color: white;
-    
+    padding: 150px 0px;
 
 }
 
@@ -44,6 +44,12 @@
 }
 .ciii{
     width: 60%;
+
+}
+
+progress{
+width: 80%;
+height: 50px;
 
 }
 
