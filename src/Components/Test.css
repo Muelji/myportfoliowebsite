@@ -13,16 +13,19 @@
 }
 
 .hdiv{
+    width: 50%;
     text-align: center;
+    margin: auto;
 }
 
 
 .divtest{   
-    width: 60%;
+    width: 50%;
     margin: auto;
     height: 550px;
     display: flex;
     justify-content: space-between;
+    border: 1px solid red;
 }
 
 .imgp{
@@ -33,5 +36,5 @@
 }
 
 .test1{
-    width: 400px;
+    width: 450px;
 }
