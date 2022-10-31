@@ -19,8 +19,7 @@ function Home() {
                   <a href="https://wwww.instagram.com" className="fa fa-linkedin">.</a>
               
               </div>
-    
-    
+      
          </div>
 
     </div>
