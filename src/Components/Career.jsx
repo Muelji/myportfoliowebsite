@@ -25,23 +25,23 @@ function Career() {
                 <h3>Skills</h3>
                <div className='ciii'>
                <h4>HTML</h4>
-               <progress></progress>
+               <progress  max="100" value="100"> 100%</progress>
                <h4>CSS</h4>
-               <progress></progress>
+               <progress  max="100" value="100"> 100%</progress>
                <h4>TAILWIND</h4>
-               <progress></progress>
+               <progress  max="100" value="40"> 40%</progress>
                <h4>WORDPRESS</h4>
-               <progress></progress>
+               <progress  max="100" value="70"> 70%</progress>
                <h4>JAVASCRIPT</h4>
-               <progress></progress>
+               <progress  max="100" value="60"> 60%</progress>
                <h4>REACT JS</h4>
-               <progress></progress>
+               <progress  max="100" value="60"> 60%</progress>
                <h4>MONGO DB</h4>
-               <progress></progress>
+               <progress  max="100" value="40"> 40%</progress>
                <h4>NODE JS</h4>
-               <progress></progress>
+               <progress  max="100" value="40"> 40%</progress>
                <h4>GIT</h4>
-               <progress></progress>
+               <progress  max="100" value="70"> 70%</progress>
                </div>
 
            </div>
