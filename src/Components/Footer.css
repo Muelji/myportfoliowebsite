@@ -39,6 +39,7 @@ span{color: white}
 .hello{
   border: 1px solid rgb(29, 28, 28);
   border-bottom-color: aqua;
+  width: 50%;
 
 }
 
