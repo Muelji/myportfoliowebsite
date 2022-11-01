@@ -5,14 +5,14 @@ function Home() {
   return (
     <div className='navdiv'>
         <div className='div2'>
-          <div></div>
+          
                 <div className='me'><h1>I'm Muelji Damos</h1></div>
                <h3 id='uptext'> I'm an <b> Front-End Developer,</b> Chemical Engineer, a <b>visionary</b> and a creative, who has the sole passion of    creating effective an optimal visual identities for individuals, companies and organizations of all sizes around the world.
                  Start scrolling and learn more about me and my spectacular works.
               </h3>           
      
                     <hr id="hr2"/> <br/> <br/>
-
+                    <div>Connect with me </div>
               <div className='div2i'>
 
                   <a href="https://www.github.com/muelji" className="fa fa-github">.</a>
