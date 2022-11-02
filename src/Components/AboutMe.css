@@ -45,14 +45,14 @@ h5{
     height: 60px;
     text-align: center;
     /* border: 1px solid rgb(194, 34, 34); */
-    background-color: rgb(224, 221, 221);
-    color: black;
+    background-color: rgb(37, 56, 85);
+    color: white;
     border-radius: 5px;
     
 }
 
 .downloadcv:hover{
-     background-color: rgb(243, 242, 240);
+     background-color:  rgb(79, 98, 126);
  }
  
      
