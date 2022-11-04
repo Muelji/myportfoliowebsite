@@ -1,8 +1,13 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 
 ul{
-    display: flex; 
     /* color: rgb(209, 47, 47);  */
+    display: flex; 
+    justify-content: space-around;
+    list-style: none;
+   }
+
+   li{
     margin: 20px;
    }
 
