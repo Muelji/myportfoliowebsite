@@ -11,12 +11,13 @@ li{
  justify-content: center;
  background-image: url("../Assets/images/Avengers.webp");
  background-size: 130%;
- /* border: 1px solid red; */
- height: 50px;
+ border: 1px solid red;
+
 }
 
 .navbar{
-/* border: 1px solid blue; */
+border: 1px solid blue;
+max-width: 100%;
 }
 
 
