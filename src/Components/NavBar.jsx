@@ -12,7 +12,8 @@ import Home from './Home';
 function NavBar() {
   return (
     <div>
-  <div>
+  <div className='navhome'>
+     <div>
        <div class="div1">
            
                <nav class="navbar">
@@ -30,6 +31,7 @@ function NavBar() {
 
     </div>
     <Home/>
+    </div>
     <Aboutme/>
     <Career/>
     <Work/>
