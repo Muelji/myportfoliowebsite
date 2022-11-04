@@ -3,13 +3,14 @@
 ul{
     /* color: rgb(209, 47, 47);  */
     display: flex; 
+    flex-wrap: wrap;
     justify-content: space-around;
     list-style: none;
    
    }
 
    li{
-    margin: 20px;
+    margin-left: 20px;
    }
 
 .div1{
