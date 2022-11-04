@@ -15,7 +15,7 @@ ul{
  display: flex;
  justify-content: center;
  background-image: url("../Assets/images/Avengers.webp");
- background-size: 130%;
+ background-size: 100%;
  border: 1px solid red;
 
 }
