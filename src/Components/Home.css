@@ -4,9 +4,10 @@
     margin: auto;
     /* margin-top: 10%; */
     width: 50%;
-    height: 700px;
+    height: 400px;
     text-align: center;
     padding-top: 8%;
+    border: 1px solid red;
 }
 
 .navdiv{
